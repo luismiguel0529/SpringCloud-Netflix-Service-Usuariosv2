@@ -23,7 +23,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>com.formacionbdi.springboot.app.usuarios.commons</groupId>
-			<artifactId>springboot-servicio-usuarios-commons</artifactId>
+			<artifactId>springboot-servicio-usuarios-commonsv2</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
